@@ -1,4 +1,5 @@
 #(a)
+library(here)
 
 a <- 4 * sin(pi)
 b <- 3 * a
@@ -111,6 +112,5 @@ print(res)
 
 #(p)
 #install.packages('here')
-library(here)
 csvLodowki <- read.csv(file = here('zadanie01/lodowki.csv'))
 print(csvLodowki)
