@@ -4,186 +4,125 @@ Alternatives: &alternatives
 # We can use these attributes later in the file when defining 
 # preferenceFunctions. The attributes can be quantitative or 
 # qualitative.
-  Monitor 1:
-      Matryca: 24
-      Rodzaj_matrycy: TN
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 350
-      Czas_reakcji_matrycy: 1
-      Czestotliwosc_odswiezania: 144
-      Kontrast_statyczny: 1000
-      Cena: 829
-      Ocena: 4.8
-      Liczba_ocen: 25
-  Monitor 2:
-      Matryca: 23.6
-      Rodzaj_matrycy: VA
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 300
-      Czas_reakcji_matrycy: 1
-      Czestotliwosc_odswiezania: 144
-      Kontrast_statyczny: 3000
-      Cena: 1099
-      Ocena: 3
-      Liczba_ocen: 1
-  Monitor 3:
-      Matryca: 27
-      Rodzaj_matrycy: IPS
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 250
-      Czas_reakcji_matrycy: 5
-      Czestotliwosc_odswiezania: 60
-      Kontrast_statyczny: 1000
-      Cena: 699
-      Ocena: 5
-      Liczba_ocen: 53
-  Monitor 4:
-      Matryca: 27
-      Rodzaj_matrycy: VA
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 250
-      Czas_reakcji_matrycy: 4
-      Czestotliwosc_odswiezania: 60
-      Kontrast_statyczny: 3000
-      Cena: 749
-      Ocena: 4.4
-      Liczba_ocen: 68
-  Monitor 5:
-      Matryca: 24
-      Rodzaj_matrycy: VA
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 250
-      Czas_reakcji_matrycy: 4
-      Czestotliwosc_odswiezania: 60
-      Kontrast_statyczny: 3000
-      Cena: 549
-      Ocena: 5
-      Liczba_ocen: 1
-  Monitor 6:
-      Matryca: 18.5
-      Rodzaj_matrycy: TFT
-      Rozdzielczosc_w: 1366
-      Rozdzielczosc_h: 768
-      Jakosc_ekranu: 200
-      Czas_reakcji_matrycy: 5
-      Czestotliwosc_odswiezania: 60
-      Kontrast_statyczny: 700
-      Cena: 259
-      Ocena: 4.7
-      Liczba_ocen: 150
-  Monitor 7:
-      Matryca: 24.5
-      Rodzaj_matrycy: TN
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 250
-      Czas_reakcji_matrycy: 1
-      Czestotliwosc_odswiezania: 75
-      Kontrast_statyczny: 1000
-      Cena: 599
-      Ocena: 5
-      Liczba_ocen: 28
-  Monitor 8:
-      Matryca: 23.6
-      Rodzaj_matrycy: MVA
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 250
-      Czas_reakcji_matrycy: 5
-      Czestotliwosc_odswiezania: 60
-      Kontrast_statyczny: 3000
-      Cena: 449
-      Ocena: 4
-      Liczba_ocen: 3
-  Monitor 9:
-      Matryca: 23.8
-      Rodzaj_matrycy: IPS
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 250
-      Czas_reakcji_matrycy: 1
+  Lodowka 1:
+      Cena: 24
+      Ocena: TN
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 350
+      Liczba_opinii: 1
+  Lodowka 2:
+      Cena: 23.6
+      Ocena: VA
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080 
+      Zuzycie_pradu: 300
+      Liczba_opinii: 1
+  Lodowka 3:
+      Cena: 27
+      Ocena: IPS
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 250
+      Liczba_opinii: 5
+  Lodowka 4:
+      Cena: 27
+      Ocena: VA
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 250
+      Liczba_opinii: 4
+  Lodowka 5:
+      Cena: 24
+      Ocena: VA
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 250
+  Lodowka 6:
+      Cena: 18.5
+      Ocena: TFT
+      Pojemnosc_chlodziarki: 1366
+      Pojemnosc_zamrazalnika: 768
+      Zuzycie_pradu: 200
+      Liczba_opinii: 5
+  Lodowka 7:
+      Cena: 24.5
+      Ocena: TN
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 250
+      Liczba_opinii: 1
+  Lodowka 8:
+      Cena: 23.6
+      Ocena: MVA
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 250
+      Liczba_opinii: 5
+  Lodowka 9:
+      Cena: 23.8
+      Ocena: IPS
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 250
+      Liczba_opinii: 1
       Czestotliwosc_odswiezania: 75
       Kontrast_statyczny: 3000
       Cena: 599
       Ocena: 4.5
       Liczba_ocen: 45
-  Monitor 10:
-      Matryca: 27
-      Rodzaj_matrycy: VA
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 250
-      Czas_reakcji_matrycy: 4
-      Czestotliwosc_odswiezania: 75
-      Kontrast_statyczny: 3000
-      Cena: 1029
-      Ocena: 5
-      Liczba_ocen: 9
-  Monitor 11:
-      Matryca: 24
-      Rodzaj_matrycy: TN
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 250
-      Czas_reakcji_matrycy: 1
-      Czestotliwosc_odswiezania: 60
-      Kontrast_statyczny: 1000
-      Cena: 499
-      Ocena: 5
-      Liczba_ocen: 114
-  Monitor 12:
-      Matryca: 23.8
-      Rodzaj_matrycy: IPS
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 250
-      Czas_reakcji_matrycy: 1
-      Czestotliwosc_odswiezania: 75
-      Kontrast_statyczny: 1000
-      Cena: 549
-      Ocena: 5
-      Liczba_ocen: 107
-  Monitor 13:
-      Matryca: 27
-      Rodzaj_matrycy: VA
-      Rozdzielczosc_w: 1920
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 250
-      Czas_reakcji_matrycy: 4
+  Lodowka 10:
+      Cena: 27
+      Ocena: VA
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 250
+      Liczba_opinii: 4
+  Lodowka 11:
+      Cena: 24
+      Ocena: TN
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 250
+      Liczba_opinii: 1
+  Lodowka 12:
+      Cena: 23.8
+      Ocena: IPS
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 250
+      Liczba_opinii: 1
+  Lodowka 13:
+      Cena: 27
+      Ocena: VA
+      Pojemnosc_chlodziarki: 1920
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 250
+      Liczba_opinii: 4
       Czestotliwosc_odswiezania: 60
       Kontrast_statyczny: 3000
       Cena: 749
       Ocena: 5
       Liczba_ocen: 77
-  Monitor 14:
-      Matryca: 15
-      Rodzaj_matrycy: IPS
-      Rozdzielczosc_w: 2560
-      Rozdzielczosc_h: 1080
-      Jakosc_ekranu: 250
-      Czas_reakcji_matrycy: 5
+  Lodowka 14:
+      Cena: 15
+      Ocena: IPS
+      Pojemnosc_chlodziarki: 2560
+      Pojemnosc_zamrazalnika: 1080
+      Zuzycie_pradu: 250
+      Liczba_opinii: 5
       Czestotliwosc_odswiezania: 75
       Kontrast_statyczny: 1000
       Cena: 649
       Ocena: 5
       Liczba_ocen: 15
-  Monitor 15:
-      Matryca: 34
-      Rodzaj_matrycy: IPS
-      Rozdzielczosc_w: 3440
-      Rozdzielczosc_h: 1440
-      Jakosc_ekranu: 300
-      Czas_reakcji_matrycy: 5
-      Czestotliwosc_odswiezania: 75
-      Kontrast_statyczny: 1000
-      Cena: 2999
-      Ocena: 5
-      Liczba_ocen: 14
+  Lodowka 15:
+      Cena: 34
+      Ocena: IPS
+      Pojemnosc_chlodziarki: 3440
+      Pojemnosc_zamrazalnika: 1440
+      Zuzycie_pradu: 300
+      Liczba_opinii: 5
 #
 # End of Alternatives Section
 #####################################
@@ -191,7 +130,7 @@ Alternatives: &alternatives
 #
 Goal:
 # A Goal HAS preferences (within-level comparison) and HAS Children (items in level)
-  name: Choose the best monitor
+  name: Choose the best Lodowka
   preferences:
     pairwise:
       - [wydajnosc, jakosc, 1]
@@ -204,17 +143,17 @@ Goal:
     wydajnosc:
       preferences:
         pairwiseFunction:
-          function(a1, a2) max(a1$Czas_reakcji_matrycy, a2$Czas_reakcji_matrycy)
+          function(a1, a2) max(a1$Liczba_opinii, a2$Liczba_opinii)
       children: *alternatives
     jakosc:
       preferences:
         pairwiseFunction:
-          function(a1, a2) max(a1$Jakosc_ekranu, a2$Jakosc_ekranu)
+          function(a1, a2) max(a1$Zuzycie_pradu, a2$Zuzycie_pradu)
       children: *alternatives
     styl:
       preferences:
         pairwiseFunction:
-          function(a1, a2) max(a1$Matryca, a2$Matryca)
+          function(a1, a2) max(a1$Cena, a2$Cena)
       children: *alternatives
     cena:
       preferences:
